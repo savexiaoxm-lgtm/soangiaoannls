@@ -234,7 +234,7 @@ if uploaded_files:
 # 2. THÔNG TIN
 st.markdown('<div class="section-header">📝 2. THÔNG TIN BÀI DẠY</div>', unsafe_allow_html=True)
 
-c1, c2, c3 = st.columns(2)
+c1, c2, c3 = st.columns(3)
 with c1: lop = st.text_input("📚 Lớp:", "Lớp 4")
 with c2: ten_bai = st.text_input("📌 Tên bài học:", placeholder="Ví dụ: Học hát bài...")
 with c3: mon_hoc = st.text_input("📚 Môn học:", "Toán")
