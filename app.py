@@ -255,7 +255,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 # --- PROMPT CHI TIẾT CỦA THẦY (BẢN GỐC ĐẦY ĐỦ) ---
                 prompt_instruction = f"""
                 Đóng vai là một Giáo viên Tiểu học giỏi, am hiểu chương trình GDPT 2018.
-                Nhiệm vụ: Soạn Kế hoạch bài dạy (Giáo án) cho bài: "{ten_bai}" - {lop}.
+                Nhiệm vụ: Soạn Kế hoạch bài dạy (Giáo án) cho bài: "{ten_bai}" {mon_hoc} - {lop}.
 
                 DỮ LIỆU ĐẦU VÀO:
                 - (Nếu có) File PDF Khung năng lực số đính kèm: Hãy dùng để đối chiếu nội dung bài học và đưa vào mục Năng lực số.
