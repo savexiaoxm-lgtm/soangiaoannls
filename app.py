@@ -291,6 +291,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 YÊU CẦU CHI TIẾT CHO TIẾN TRÌNH DẠY HỌC:
                 - Cần chi tiết cụ thể (đặc biệt là Hoạt động của học sinh).
                 - Các ý trong tiến trình dạy học được bắt đầu bằng dấu gạch đầu dòng (-).
+                - Mỗi ý sẽ được ngăn cách bởi dòng kẻ ngang (hàng ngang)
                 - Tích hợp Học thông qua chơi vào 1 số hoạt động phù hợp.
                 - Riêng các trò chơi trong tiến trình dạy học cần TRÌNH BÀY RÕ LUẬT CHƠI.
                 - Không cần ghi "Mục tiêu HTQC".
