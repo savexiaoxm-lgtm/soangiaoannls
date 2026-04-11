@@ -294,7 +294,6 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 - Mỗi ý sẽ được ngăn cách bởi dòng kẻ ngang (hàng ngang, ô ngang)
                 - Tích hợp Học thông qua chơi vào 1 số hoạt động phù hợp.
                 - Riêng các trò chơi trong tiến trình dạy học cần TRÌNH BÀY RÕ LUẬT CHƠI.
-                - Không cần ghi "Mục tiêu HTQC".
                 - Không cần phần Mục tiêu trong mỗi hoạt động của Tiến trình dạy học
                 - Tiết học chỉ có 35 phút, hãy điều chỉnh lượng kiến thức và hoạt động hợp lý.
                 - Không kèm chú thích nguồn trong bài soạn.
